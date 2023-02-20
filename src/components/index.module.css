@@ -1,0 +1,13 @@
+.textCenter {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.intro {
+  max-width: none;
+  line-height: var(--line-height-loose);
+}
